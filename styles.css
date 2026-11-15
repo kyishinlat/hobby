@@ -1,0 +1,39 @@
+body {
+    background-color:#a2989b;
+}
+
+h1 {
+    color: #483b41;
+    text-align: center;
+    font: bold 60px Handlee, sans-serif;
+}
+h2 {
+    color: #483b41;
+    text-align: center;
+    font: bold 50px Handlee, sans-serif;
+}
+h3 {
+    color: #483b41;
+    text-align: center;
+    font: bold 40px Handlee, sans-serif;
+}
+.childe {
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.deliciousfont {
+    color: #7a6770;
+    text-align: center;
+      list-style-position: inside;
+    font:italic 20px Patrick hand, sans-serif;
+      padding-left: 0;
+}
+
+.textt {
+    color:#7a6770;
+    text-align: center;
+    font:italic 20px Patrick hand, sans-serif;
+}
+
